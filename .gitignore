@@ -1,0 +1,20 @@
+# VSCode settings
+.vscode
+
+# Pipenv stuff
+Pipfile
+Pipfile.lock
+
+# Distribution
+dist
+MintZone.egg-info
+
+build
+
+__pycache__
+
+.envrc
+
+config.yaml
+
+playground/
